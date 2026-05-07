@@ -140,4 +140,4 @@ Azurite may update or modify this Policy at any time. Continued use of Azurite b
 For commercial licensing requests, partnership inquiries, or questions regarding acceptable use of Azurite brand assets, please contact:
 
 **Azurite**
-hi@azurite.studio
+hi@azurite.studio or legal@azurite.studio
